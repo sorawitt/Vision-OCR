@@ -1,7 +1,7 @@
 # OCR Image Processing App
 
 ## Description
-The **OCR Image Processing App** is an iOS application designed to capture images using the device's camera, perform Optical Character Recognition (OCR) to detect text, and draw borders around specific keywords like "Card." The app supports multiple languages, including Thai, ensuring accurate text recognition and highlighting.
+The **OCR Image Processing App** is an iOS application designed to capture images using the device's camera, perform Optical Character Recognition (OCR) to detect text, and draw borders around specific keywords like "ศาสนา." The app supports multiple languages, including Thai, ensuring accurate text recognition and highlighting.
 
 ## Features
 - **Real-time Image Capture:** Capture images directly within the app.
